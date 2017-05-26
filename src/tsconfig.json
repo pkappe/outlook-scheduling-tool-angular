@@ -9,5 +9,11 @@
     "lib": [ "es2015", "dom" ],
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true
+  },
+  "config": {
+    "clientSecret" : "zcNpys45TvXQiwXxH6GsM6j",
+    "clientId" : "5131b3dd-25a5-4ae8-a250-9e4ac4ca9398",
+    "scope" : ["Calendars.Read", "Calendars.Read.Shared", "Calendars.ReadWrite", "Calendars.ReadWrite.Shared", "Contacts.Read", "User.Read", "User.ReadBasic.All"]
   }
+
 }

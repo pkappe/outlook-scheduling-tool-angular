@@ -1,0 +1,14 @@
+{
+  "name": "msgraph-sdk-javascript",
+  "homepage": "https://github.com/microsoftgraph/msgraph-sdk-javascript",
+  "_release": "2719513160",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2719513160fc03e8808e69a308350e75abf383c6"
+  },
+  "_source": "https://github.com/microsoftgraph/msgraph-sdk-javascript.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/microsoftgraph/msgraph-sdk-javascript.git",
+  "_direct": true
+}
